@@ -1,4 +1,4 @@
-# Python3 Installation & Tkinter Troubleshooting
+# Python3.x Installation & Tkinter Troubleshooting
 
 - https://gist.github.com/zhensongren/811dcf2471f663ed3148a272f1faa957
 
