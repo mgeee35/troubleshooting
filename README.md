@@ -12,7 +12,11 @@
 
 ### Bitnami LAMP-Stack / LAPP-Stack Troubleshooting
 
+- https://docs.bitnami.com/general/infrastructure/lamp/administration/
+
 - https://docs.bitnami.com/general/infrastructure/lamp/administration/disable-cache/
+
+- https://docs.bitnami.com/general/infrastructure/lapp/administration/
 
 - https://docs.bitnami.com/general/infrastructure/lapp/administration/disable-cache/
 
