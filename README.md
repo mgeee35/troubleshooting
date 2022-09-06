@@ -15,3 +15,10 @@
 - https://docs.bitnami.com/general/infrastructure/lamp/administration/disable-cache/
 
 - https://docs.bitnami.com/general/infrastructure/lapp/administration/disable-cache/
+
+- https://docs.bitnami.com/installer/faq/linux-faq/administration/uninstall-linux/
+
+- https://docs.bitnami.com/installer/faq/linux-faq/get-started/
+
+- https://docs.bitnami.com/installer/faq/linux-faq/administration/
+
