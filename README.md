@@ -1,4 +1,6 @@
-# Python3.x Installation & Tkinter Troubleshooting
+# Troubleshooting
+
+### Python3.x Installation & Tkinter Troubleshooting
 
 - https://gist.github.com/zhensongren/811dcf2471f663ed3148a272f1faa957
 
@@ -8,3 +10,8 @@
 
 - https://stackoverflow.com/questions/1210664/no-module-named-sqlite3/58391079#58391079
 
+### Bitnami LAMP-Stack / LAPP-Stack Troubleshooting
+
+- https://docs.bitnami.com/general/infrastructure/lamp/administration/disable-cache/
+
+- https://docs.bitnami.com/general/infrastructure/lapp/administration/disable-cache/
