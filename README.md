@@ -26,3 +26,9 @@
 
 - https://docs.bitnami.com/installer/faq/linux-faq/administration/
 
+### Eclipse
+
+- https://stackoverflow.com/questions/1113729/editor-does-not-contain-a-main-type
+
+- https://www.youtube.com/watch?v=nN2N-26VSkU
+
