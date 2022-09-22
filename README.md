@@ -34,3 +34,9 @@
 
 - https://www.youtube.com/watch?v=nN2N-26VSkU
 
+- https://wiki.eclipse.org/Papyrus/Papyrus_User_Guide#Code_Generation_Support
+
+- https://www.eclemma.org/
+
+- https://www.youtube.com/watch?v=kXi5BrsHnL0
+
