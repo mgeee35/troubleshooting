@@ -40,5 +40,5 @@
 
 - [Eclipse Modeling Framework](https://www.youtube.com/watch?v=kXi5BrsHnL0)
 
-- [How to remove Plugins from Eclipse](https://www.youtube.com/watch?v=cLqX3947DLk)
+- [How to remove plugins from Eclipse](https://www.youtube.com/watch?v=cLqX3947DLk)
 
