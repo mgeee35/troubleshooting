@@ -28,6 +28,8 @@
 
 ### Eclipse
 
+- [How to remove plugins from Eclipse](https://www.youtube.com/watch?v=cLqX3947DLk)
+
 - [How to change Java compiler version for Eclipse project](https://www.youtube.com/watch?v=nmdjU1vdFno)
 
 - https://stackoverflow.com/questions/1113729/editor-does-not-contain-a-main-type
@@ -39,6 +41,4 @@
 - https://www.eclemma.org/
 
 - [Eclipse Modeling Framework](https://www.youtube.com/watch?v=kXi5BrsHnL0)
-
-- [How to remove plugins from Eclipse](https://www.youtube.com/watch?v=cLqX3947DLk)
 
