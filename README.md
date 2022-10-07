@@ -38,5 +38,5 @@
 
 - https://www.eclemma.org/
 
-- https://www.youtube.com/watch?v=kXi5BrsHnL0
+- [Eclipse Modeling Framework](https://www.youtube.com/watch?v=kXi5BrsHnL0)
 
