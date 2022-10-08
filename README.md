@@ -42,3 +42,7 @@
 
 - [Eclipse Modeling Framework](https://www.youtube.com/watch?v=kXi5BrsHnL0)
 
+- https://stackoverflow.com/questions/71696763/how-to-install-objectaid-in-2022
+
+- https://stackoverflow.com/questions/68589918/objectaid-unhandled-event-loop-exception/70785096#70785096
+
