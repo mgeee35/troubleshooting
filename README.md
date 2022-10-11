@@ -10,6 +10,8 @@
 
 - https://stackoverflow.com/questions/1210664/no-module-named-sqlite3/58391079#58391079
 
+
+
 ### Bitnami LAMP-Stack / LAPP-Stack Troubleshooting
 
 - https://docs.bitnami.com/general/infrastructure/lamp/administration/
@@ -25,6 +27,8 @@
 - https://docs.bitnami.com/installer/faq/linux-faq/get-started/
 
 - https://docs.bitnami.com/installer/faq/linux-faq/administration/
+
+
 
 ### Eclipse
 
@@ -45,4 +49,15 @@
 - https://stackoverflow.com/questions/71696763/how-to-install-objectaid-in-2022
 
 - https://stackoverflow.com/questions/68589918/objectaid-unhandled-event-loop-exception/70785096#70785096
+
+
+
+### Zotero
+
+- https://www.zotero.org/support/installation
+
+- https://forums.zotero.org/discussion/77220/ubuntu-18-04-adding-a-launcher-for-zotero
+
+- https://askubuntu.com/questions/332109/how-to-install-zotero-in-ubuntu
+
 
