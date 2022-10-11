@@ -84,6 +84,6 @@
 
 - https://www.jetbrains.com/help/idea/uninstall.html
 
-- https://www.jetbrains.com/help/pycharm/installation-guide.html
+- https://www.jetbrains.com/help/pycharm/uninstall.html
 
 
