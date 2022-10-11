@@ -12,6 +12,8 @@
 
 - https://linuxhint.com/update_alternatives_ubuntu/
 
+- https://stackoverflow.com/questions/40832533/pip-or-pip3-to-install-packages-for-python-3/40832677#40832677
+
 
 
 ### Bitnami LAMP-Stack / LAPP-Stack Troubleshooting
