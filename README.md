@@ -32,6 +32,8 @@
 
 ### Eclipse
 
+- [How to add custom application for Eclipse launcher](https://www.youtube.com/watch?v=yLeMbsI_rn4)
+
 - [How to remove plugins from Eclipse](https://www.youtube.com/watch?v=cLqX3947DLk)
 
 - [How to change Java compiler version for Eclipse project](https://www.youtube.com/watch?v=nmdjU1vdFno)
