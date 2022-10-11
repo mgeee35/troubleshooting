@@ -75,3 +75,15 @@
 - https://stackoverflow.com/questions/35530930/nodemon-not-working-bash-nodemon-command-not-found
 
 
+
+### Intellij IDEA & PyCharm Installation and Uninstallation
+
+- https://www.jetbrains.com/help/idea/installation-guide.html
+
+- https://www.jetbrains.com/help/pycharm/installation-guide.html
+
+- https://www.jetbrains.com/help/idea/uninstall.html
+
+- https://www.jetbrains.com/help/pycharm/installation-guide.html
+
+
