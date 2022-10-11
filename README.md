@@ -10,6 +10,8 @@
 
 - https://stackoverflow.com/questions/1210664/no-module-named-sqlite3/58391079#58391079
 
+- https://linuxhint.com/update_alternatives_ubuntu/
+
 
 
 ### Bitnami LAMP-Stack / LAPP-Stack Troubleshooting
