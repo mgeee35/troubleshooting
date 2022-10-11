@@ -65,3 +65,11 @@
 - https://askubuntu.com/questions/332109/how-to-install-zotero-in-ubuntu
 
 
+
+### NodeJs
+
+- https://github.com/nodejs/help/wiki/Installation
+
+- https://stackoverflow.com/questions/35530930/nodemon-not-working-bash-nodemon-command-not-found
+
+
