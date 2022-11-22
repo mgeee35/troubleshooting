@@ -36,6 +36,10 @@
 
 ### Eclipse
 
+- https://gist.github.com/mz0/39a7bf63918788fa1677b4749f018a08 (Netbeans desktop file launcher)
+
+- https://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/index.shtml
+
 - [How to add custom application for Eclipse launcher](https://www.youtube.com/watch?v=yLeMbsI_rn4)
 
 - [How to remove plugins from Eclipse](https://www.youtube.com/watch?v=cLqX3947DLk)
