@@ -91,3 +91,11 @@
 - https://www.jetbrains.com/help/pycharm/uninstall.html
 
 
+
+### PDFsam
+
+- https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/1168#issue-303669386
+
+- https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/1168#issuecomment-371721048
+
+
