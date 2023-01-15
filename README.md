@@ -90,6 +90,8 @@
 
 - https://www.jetbrains.com/help/pycharm/uninstall.html
 
+- [How to Install IntelliJ IDEA on Ubuntu 18.04 LTS?](https://www.youtube.com/watch?v=2Sr1DCv5fNk)
+
 
 
 ### PDFsam
